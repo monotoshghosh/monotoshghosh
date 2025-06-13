@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 </div>
 
 <!--Header Name-->
-# Hi, ɪ'm ᴍonotosh! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<h1> Hi, I'm Monotosh!</h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 *Android Developer | Tech Enthusiast*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Passionate about software development and building real-world solutions that make life easier. Skilled in Java, Kotlin, C++, and Firebase, with experience publishing apps on the Play Store. I enjoy solving complex problems and quickly adapt to new technologies across platforms. </p>
+<p align="left">Passionate about software development and building real-world solutions that make life easier. Skilled in Java, Kotlin, C++, and Firebase, with experience publishing apps on the [Play Store](https://play.google.com/store/apps/dev?id=5228042629409510170). I enjoy solving complex problems and quickly adapt to new technologies across platforms. </p>
 
 - 📱 Building feature-rich Android apps with animations, sound, and great UX.
 - 🌱 Currently exploring Jetpack Compose, Clean Architecture, and AI in Android.
