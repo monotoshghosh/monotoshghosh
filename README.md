@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 - 🚀 Published [SafeCall](https://play.google.com/store/apps/details?id=com.monotoshghosh.safecall) & [Tic Tac Toe](https://play.google.com/store/apps/details?id=com.monotoshghosh.tictactoe) on Play Store.
 - ▶️ Check out my published apps on [Google Play](https://play.google.com/store/apps/dev?id=5228042629409510170)
 - 🎯 Focused on scalable, secure, and user-friendly mobile solutions.
-<!-- - ✍ Technical content creator and open-source contributor. -->
 - 💻 Check out my [Personal Portfolio](https://monotoshghosh.netlify.app/) to know more about my work and projects.
+<!-- - ✍ Technical content creator and open-source contributor. -->
 
 
 <!--Profile Count Badge-->
@@ -78,25 +78,26 @@ Here are some ideas to get you started:
 <h2 align="center">🤝 Connect with Me 🤝</h2>
 <div align="center">
 
-<a href="mailto:monotoshghosh49@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="Email" />
+<a href="mailto:monotoshghosh49@gmail.com" target="_blank" style="text-decoration: none;">
+  <img src="./gmail.png" width="35" height="35" alt="Email" style="margin: 0 10px;" />
 </a>
 
-<a href="https://www.facebook.com/monotosh.ghosh.372" target="_blank">
-<img src="./facebook.png" width=50 height=50 alt="Facebook" />
+<a href="https://www.facebook.com/monotosh.ghosh.372" target="_blank" style="text-decoration: none;">
+  <img src="./facebook.png" width="35" height="35" alt="Facebook" style="margin: 0 10px;" />
 </a>
 
-<a href="https://www.instagram.com/monotosh_.ghosh" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="Instagram" />
+<a href="https://www.instagram.com/monotosh_.ghosh" target="_blank" style="text-decoration: none;">
+  <img src="./instagram.png" width="35" height="35" alt="Instagram" style="margin: 0 10px;" />
 </a>
 
-<a href="https://github.com/monotoshghosh" target="_blank">
-<img src="./github.png" width=50 height=50 alt="GitHub" />
+<a href="https://github.com/monotoshghosh" target="_blank" style="text-decoration: none;">
+  <img src="./github.png" width="35" height="35" alt="GitHub" style="margin: 0 10px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/monotoshghosh/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/monotoshghosh/" target="_blank" style="text-decoration: none;">
+  <img src="./linkedin.png" width="35" height="35" alt="LinkedIn" style="margin: 0 10px;" />
 </a>
+
 
 </div>
 <br/>
