@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 
 <!--Header Name-->
 <h1>Hi, I'm Monotosh! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-*Android Developer | Tech Enthusiast*
-<br /> 
+
+<p><em>Android Developer&nbsp;|&nbsp;Tech Enthusiast</em></p>
+<br />
+
 
 <!--Start Intro-->               
 <p align="left">  Passionate about software development and building real-world solutions that make life easier. Skilled in Java, Kotlin, C++, and Firebase, with experience publishing apps on the <a href="https://play.google.com/store/apps/dev?id=5228042629409510170" target="_blank">Play Store</a>. I enjoy solving complex problems and quickly adapt to new technologies across platforms.
@@ -36,7 +38,7 @@ Here are some ideas to get you started:
 
 - 📱 Building feature-rich Android apps with animations, sound, and great UX.
 - 🌱 Currently exploring Jetpack Compose, Clean Architecture, and AI in Android.
-- 🚀 Published [SafeCall](#) & [Tic Tac Toe](#) on Play Store (links coming soon).
+- 🚀 Published [SafeCall](https://play.google.com/apps/testing/com.monotoshghosh.safecall) & [Tic Tac Toe](https://play.google.com/store/apps/details?id=com.monotoshghosh.tictactoe) on Play Store.
 - 🎯 Focused on scalable, secure, and user-friendly mobile solutions.
 - ✍ Technical content creator and open-source contributor.
 - 💻 [Portfolio Website](https://monotoshghosh.github.io) (Coming Soon)
