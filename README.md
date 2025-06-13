@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 <h1>Hi, I'm Monotosh! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <p><em>Android Developer</em></p>
-<br />
-
 
 <!--Start Intro-->               
 <p align="left">  Passionate about software development and building real-world solutions that make life easier. Skilled in Java, Kotlin, C++, and Firebase, with experience publishing apps on the <a href="https://play.google.com/store/apps/dev?id=5228042629409510170" target="_blank">Play Store</a>. I enjoy solving complex problems and quickly adapt to new technologies across platforms.
@@ -38,11 +36,12 @@ Here are some ideas to get you started:
 
 - 📱 Building feature-rich Android apps with animations, sound, and great UX.
 - 🌱 Currently exploring Jetpack Compose, Clean Architecture, and AI in Android.
-- 🚀 Published [SafeCall](https://play.google.com/store/apps/details?id=com.monotoshghosh.safecall) & [Tic Tac Toe}(https://play.google.com/store/apps/details?id=com.monotoshghosh.tictactoe) on Play Store.
+- 🚀 Published [SafeCall](https://play.google.com/store/apps/details?id=com.monotoshghosh.safecall) & [Tic Tac Toe](https://play.google.com/store/apps/details?id=com.monotoshghosh.tictactoe) on Play Store.
 - ▶️ Check out my published apps on [Google Play](https://play.google.com/store/apps/dev?id=5228042629409510170)
 - 🎯 Focused on scalable, secure, and user-friendly mobile solutions.
-- ✍ Technical content creator and open-source contributor.
-- 💻 [Portfolio Website](https://monotoshghosh.netlify.app/)
+<!-- - ✍ Technical content creator and open-source contributor. -->
+- 💻 Check out my [Personal Portfolio](https://monotoshghosh.netlify.app/) to know more about my work and projects.
+
 
 <!--Profile Count Badge-->
 <p align="left">
@@ -52,7 +51,7 @@ Here are some ideas to get you started:
 ---
 
 <!--Languages and Tools Section-->       
-<h2 align="center">⚙️ Tech Stack & Projects</h2> 
+<h2 align="center">💻 Tech Stack & Projects</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
