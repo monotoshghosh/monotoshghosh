@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!--Header Name-->
 <h1>Hi, I'm Monotosh! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-<p><em>Android Developer&nbsp;|&nbsp;Tech Enthusiast</em></p>
+<p><em>Android Developer</em></p>
 <br />
 
 
@@ -38,10 +38,11 @@ Here are some ideas to get you started:
 
 - 📱 Building feature-rich Android apps with animations, sound, and great UX.
 - 🌱 Currently exploring Jetpack Compose, Clean Architecture, and AI in Android.
-- 🚀 Published [SafeCall](https://play.google.com/apps/testing/com.monotoshghosh.safecall) & [Tic Tac Toe](https://play.google.com/store/apps/details?id=com.monotoshghosh.tictactoe) on Play Store.
+- 🚀 Published [SafeCall](https://play.google.com/store/apps/details?id=com.monotoshghosh.safecall) & [Tic Tac Toe}(https://play.google.com/store/apps/details?id=com.monotoshghosh.tictactoe) on Play Store.
+- ▶️ Check out my published apps on [Google Play](https://play.google.com/store/apps/dev?id=5228042629409510170)
 - 🎯 Focused on scalable, secure, and user-friendly mobile solutions.
 - ✍ Technical content creator and open-source contributor.
-- 💻 [Portfolio Website](https://monotoshghosh.github.io) (Coming Soon)
+- 💻 [Portfolio Website](https://monotoshghosh.netlify.app/)
 
 <!--Profile Count Badge-->
 <p align="left">
@@ -75,18 +76,18 @@ Here are some ideas to get you started:
 <br /><br /><br /><br />
 
 <!--Contact Section--> 
-<h2 align="center">🤝 Connect with Me</h2>
+<h2 align="center">🤝 Connect with Me 🤝</h2>
 <div align="center">
 
-<a href="mailto:monotoshghosh.mg@gmail.com" target="_blank">
+<a href="mailto:monotoshghosh49@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="Email" />
 </a>
 
-<a href="https://x.com/monotoshcodes" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="Twitter" />
+<a href="https://www.facebook.com/monotosh.ghosh.372" target="_blank">
+<img src="./facebook.png" width=50 height=50 alt="Facebook" />
 </a>
 
-<a href="https://www.instagram.com/monotoshghosh_" target="_blank">
+<a href="https://www.instagram.com/monotosh_.ghosh" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="Instagram" />
 </a>
 
