@@ -78,31 +78,30 @@ Here are some ideas to get you started:
 <h2 align="center">🤝 Connect with Me 🤝</h2>
 <div align="center">
 
-  <a href="mailto:monotoshghosh49@gmail.com" target="_blank" style="text-decoration: none; margin: 0 7px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="35" height="35" alt="Email" />
+  <a href="mailto:monotoshghosh49@gmail.com" target="_blank" style="text-decoration: none;">Add commentMore actions
+  <img src="./gmail.png" width="35" height="35" alt="Email" style="margin: 0 10px;" />
   </a>
 
-  <a href="https://www.facebook.com/monotosh.ghosh.372" target="_blank" style="text-decoration: none; margin: 0 7px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" width="35" height="35" alt="Facebook" />
+  <a href="https://www.facebook.com/monotosh.ghosh.372" target="_blank" style="text-decoration: none;">
+  <img src="./facebook.png" width="35" height="35" alt="Facebook" style="margin: 0 10px;" />
   </a>
 
-  <a href="https://www.instagram.com/monotosh_.ghosh" target="_blank" style="text-decoration: none; margin: 0 7px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35" height="35" alt="Instagram" />
+  <a href="https://www.instagram.com/monotosh_.ghosh" target="_blank" style="text-decoration: none;">Add commentMore actions
+  <img src="./instagram.png" width="35" height="35" alt="Instagram" style="margin: 0 10px;" />
   </a>
 
-  <a href="https://github.com/monotoshghosh" target="_blank" style="text-decoration: none; margin: 0 7px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="35" height="35" alt="GitHub" />
+  <a href="https://github.com/monotoshghosh" target="_blank" style="text-decoration: none;">Add commentMore actions
+  <img src="./github.png" width="35" height="35" alt="GitHub" style="margin: 0 10px;" />
   </a>
 
-  <a href="https://www.linkedin.com/in/monotoshghosh/" target="_blank" style="text-decoration: none; margin: 0 7px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" height="35" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/monotoshghosh/" target="_blank" style="text-decoration: none;">
+  <img src="./linkedin.png" width="35" height="35" alt="LinkedIn" style="margin: 0 10px;" />
   </a>
 
-  <a href="https://play.google.com/store/apps/dev?id=5228042629409510170" target="_blank" style="text-decoration: none; margin: 0 7px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" width="35" height="35" alt="Google Play Store" />
+  <a href="https://play.google.com/store/apps/dev?id=5228042629409510170" target="_blank" style="text-decoration: none;">
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" width="35" height="35" alt="Google Play Store" style="margin: 0 10px;" />
   </a>
   
-
 </div>
 <br/>
 
