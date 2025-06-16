@@ -90,22 +90,15 @@ Here are some ideas to get you started:
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35" height="35" alt="Instagram" style="margin: 0 6px;" />
 </a>
 
-<!-- <a href="https://github.com/monotoshghosh" target="_blank" style="text-decoration: none;">
+<a href="https://github.com/monotoshghosh" target="_blank" style="text-decoration: none;">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="35" height="35" alt="GitHub" style="margin: 0 6px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/monotoshghosh/" target="blank" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/monotoshghosh/" target="_blank" style="text-decoration: none;">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" height="35" alt="LinkedIn" style="margin: 0 6px;" />
 </a>
   
-<a href="https://play.google.com/store/apps/dev?id=5228042629409510170" target="blank" style="text-decoration: none;">
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" width="35" height="35" alt="Google Play Store" style="margin: 0 6px;" />
-</a>   -->
-
-<a href="https://play.google.com/store/apps/dev?id=5228042629409510170" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" alt="gp" height="35" width="35" /></a>
-
-<a href="https://play.google.com/store/apps/dev?id=5228042629409510170" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" alt="gp" height="35" width="35" /></a>
-
+<a href="https://play.google.com/store/apps/dev?id=5228042629409510170" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" alt="Google Play Store" width="35" height="35" /></a>  
 
 </div>
 <br/>
