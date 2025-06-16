@@ -102,13 +102,10 @@ Here are some ideas to get you started:
   <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" width="35" height="35" alt="Google Play Store" style="margin: 0 6px;" />
 </a>  
 
-<a href="https://play.google.com/store/apps/dev?id=5228042629409510170" target="blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" alt="Email" height="35" width="35" />
-</a>
+<a href="https://play.google.com/store/apps/dev?id=5228042629409510170" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/888/888857.png" alt="gp" height="35" width="35" /></a>
 
-<a href="https://play.google.com/store/apps/dev?id=5228042629409510170" target="blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" alt="Email" height="35" width="35" />
-</a>
+<a href="https://play.google.com/store/apps/dev?id=5228042629409510170" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/888/888857.png" alt="gp" height="35" width="35" /></a>
+
 
 </div>
 <br/>
