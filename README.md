@@ -60,30 +60,13 @@
 <h2 align="center">🤝 Connect with Me 🤝</h2>
 <div align="center">
 
-<a href="mailto:monotoshghosh49@gmail.com" target="_blank" style="text-decoration: none;">
-  <img src="./gmail.png" width="35" height="35" alt="Email" style="margin: 0 10px;" />
-</a>
+<a href="mailto:monotoshghosh49@gmail.com" target="_blank"><img src="./gmail.png" width="32"/></a>
+<a href="https://www.facebook.com/monotosh.ghosh.372" target="_blank"><img src="./facebook.png" width="32"/></a>
+<a href="https://www.instagram.com/monotosh_.ghosh" target="_blank"><img src="./instagram.png" width="32"/></a>
+<a href="https://github.com/monotoshghosh" target="_blank"><img src="./github.png" width="32"/></a>
+<a href="https://www.linkedin.com/in/monotoshghosh/" target="_blank"><img src="./linkedin.png" width="32"/></a>
+<a href="https://play.google.com/store/apps/dev?id=5228042629409510170" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" width="32"/></a>
 
-<a href="https://www.facebook.com/monotosh.ghosh.372" target="_blank" style="text-decoration: none;">
-  <img src="./facebook.png" width="35" height="35" alt="Facebook" style="margin: 0 10px;" />
-</a>
-
-<a href="https://www.instagram.com/monotosh_.ghosh" target="_blank" style="text-decoration: none;">
-  <img src="./instagram.png" width="35" height="35" alt="Instagram" style="margin: 0 10px;" />
-</a>
-
-<a href="https://github.com/monotoshghosh" target="_blank" style="text-decoration: none;">
-  <img src="./github.png" width="35" height="35" alt="GitHub" style="margin: 0 10px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/monotoshghosh/" target="_blank" style="text-decoration: none;">
-  <img src="./linkedin.png" width="35" height="35" alt="LinkedIn" style="margin: 0 10px;" />
-</a>
-
-<a href="https://play.google.com/store/apps/dev?id=5228042629409510170" target="_blank" style="text-decoration: none;">
-<img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" width="35" height="35" alt="Google Play Store" style="margin: 0 10px;" />
-</a>
-  
 </div>
 <br/>
 
