@@ -18,7 +18,7 @@
 
 - 📱 Building feature-rich Android apps with animations, sound, and great UX.
 - 🌱 Currently exploring Jetpack Compose, Clean Architecture, and AI in Android.
-- 🚀 Published [SafeCall](https://play.google.com/store/apps/details?id=com.monotoshghosh.safecall) & [Tic Tac Toe](https://play.google.com/store/apps/details?id=com.monotoshghosh.tictactoe) on Play Store.
+- 🚀 Published [Expensio](https://play.google.com/store/apps/details?id=com.monotoshghosh.expensio), [SafeCall](https://play.google.com/store/apps/details?id=com.monotoshghosh.safecall) & [Tic Tac Toe](https://play.google.com/store/apps/details?id=com.monotoshghosh.tictactoe) on Play Store.
 - ▶️ Check out my published apps on [Google Play](https://play.google.com/store/apps/dev?id=5228042629409510170)
 - 🎯 Focused on scalable, secure, and user-friendly mobile solutions.
 - 💻 Check out my [Personal Portfolio](https://monotoshghosh.netlify.app/) to know more about my work and projects.
