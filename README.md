@@ -50,6 +50,7 @@
 
 <h3 align="left">Some Projects</h3>
 <ul align="left">
+  <li><strong>Expensio</strong> – Smart expense tracker for managing and monitoring daily expenses</li>
   <li><strong>SafeCall</strong> – Emergency alert Android app with location & sound features</li>
   <li><strong>Tic Tac Toe</strong> – Classic game with computer opponent, animations & SFX</li>
   <li><strong>SyncCity</strong> – Inter-departmental platform for Smart India Hackathon 2024</li>
