@@ -62,7 +62,7 @@
 <div align="center">
 
 <a href="mailto:monotoshghosh49@gmail.com" target="_blank"><img src="./gmail.png" width="32"/></a>
-<a href="https://www.facebook.com/monotosh.ghosh.372" target="_blank"><img src="./facebook.png" width="32"/></a>
+<a href="https://www.facebook.com/monotosh.ghosh.11" target="_blank"><img src="./facebook.png" width="32"/></a>
 <a href="https://www.instagram.com/monotosh_.ghosh" target="_blank"><img src="./instagram.png" width="32"/></a>
 <a href="https://github.com/monotoshghosh" target="_blank"><img src="./github.png" width="32"/></a>
 <a href="https://www.linkedin.com/in/monotoshghosh/" target="_blank"><img src="./linkedin.png" width="32"/></a>
